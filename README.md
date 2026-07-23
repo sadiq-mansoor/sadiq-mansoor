@@ -1,54 +1,71 @@
 <h1 align="center">Hi, I'm Sadiq Mansoor 👋</h1>
 
 <p align="center">
-  <b>Machine Learning · Data Science · Analytics</b><br>
-  Final-year Computer Science student turning messy data into models, dashboards, and decisions.
+  <b>Software Engineer &amp; Applied ML</b><br>
+  <i>I build AI that ships, not demos.</i>
+</p>
+
+<p align="center">
+  Production-ready AI systems across the full stack — data, models, FastAPI backends, and cloud.<br>
+  RAG platforms, applied ML for signal &amp; clinical prediction, and full-stack web apps.
 </p>
 
 <p align="center">
   <a href="https://sadiqmansoor.tech"><img src="https://img.shields.io/badge/Portfolio-sadiqmansoor.tech-2b6cb0?style=flat-square"></a>
-  <a href="https://twitter.com/SadiqMansoorIMS"><img src="https://img.shields.io/badge/Twitter-@SadiqMansoorIMS-1da1f2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sadiqmansoor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/SadiqM_IMS"><img src="https://img.shields.io/badge/X-@SadiqM__IMS-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:sadiqmjalali111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔭 What I work on
+### 🔭 What I do
 
-I build end-to-end data projects — from raw data and research design through to models,
-BI dashboards, and shippable applications. I care about doing things *properly*: reproducible
-pipelines, honest evaluation, and results a non-technical stakeholder can actually use.
+I ship end-to-end AI systems — from raw data and research design through to models, APIs, and
+deployed apps. I care about doing it *properly*: reproducible pipelines, honest evaluation, and
+systems real users can actually rely on.
 
-- 🧠 **ML & research** — classification, regularization/generalization studies, reproducible experiments
-- 🛠️ **Software** — Python applications (Streamlit), multi-source data systems, audit & access control
-- 📊 **Analytics & BI** — Power BI dashboards, SQL case studies, business/market analysis
-- ✍️ I also write about what I learn on [my blog](https://sadiqmansoor.tech)
+- 🤖 **LLM systems & RAG** — end-to-end retrieval pipelines, prompt engineering, cited answers, production deployment
+- 🧠 **Applied ML & research** — signal classification, clinical prediction, formal evaluation & regularization studies
+- 🛠️ **Full-stack** — Python/JavaScript apps, FastAPI backends, auth, dashboards, cloud (Azure/Vercel)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| 🧠 **[EEG-State-Classification](https://github.com/sadiq-mansoor/ML_project)** | A research study on how preprocessing & regularization jointly affect generalization on imbalanced EEG data — 3 datasets, 5 formal hypotheses tested with statistical significance. | `scikit-learn` `imbalanced-learn` `SciPy` |
-| 🛠️ **[DataDock](https://github.com/sadiq-mansoor/DataDock)** | An offline, role-based data-retrieval system with multi-DB/file connectors, sensitive-field masking, and full audit logging. | `Python` `Streamlit` `SQL` |
-| 🗄️ **[SQL: Foodie-Fi](https://github.com/sadiq-mansoor/SQL_FoodieFi_Project)** | Subscription-analytics case study (churn, customer journey, revenue) solved in MySQL. | `MySQL` |
-| 📊 **[Power BI: Flying Whale](https://github.com/sadiq-mansoor/FlyingWhale_PowerBI_Dashboard)** | Airline loyalty-program & travel-pattern dashboard. | `Power BI` `DAX` |
-| 📊 **[Power BI: Amazon Prime](https://github.com/sadiq-mansoor/PowerBI-AmazonPrimeProject)** | Content-catalog analytics on Amazon Prime titles. | `Power BI` `Excel` |
-| 📈 **[CodeX Business Analysis](https://github.com/sadiq-mansoor/Codex_BusinessAnalysis)** | Market-entry analysis for an energy-drink brand in India. | `Excel` `Power BI` |
+Every project below is **live — click to try it.**
+
+| Project | What it is | Live |
+|---------|-----------|:----:|
+| 🔗 **LinkIntelligence** | Turn any website into a private, source-backed AI expert: crawl → index as vectors → chat with **cited** answers. FastAPI + RAG. | **[Demo →](https://linkintelligence.sadiqmansoor.tech/)** |
+| 🧠 **EEG State Classification** | Research study on how preprocessing & regularization jointly affect generalization on imbalanced EEG data — 3 benchmarks, 5 hypotheses tested for significance. | **[Demo →](https://eeg-classification.sadiqmansoor.tech/)** · [Code](https://github.com/sadiq-mansoor/ML_project) |
+| 🕵️ **Provenance** | Media-literacy platform for detecting AI-generated content — C2PA metadata analysis, deepfake detection, interactive learning. | **[Demo →](https://provenance.sadiqmansoor.tech/)** |
+| 🛡️ **CyberSafe PK** | Prototype cybercrime-reporting cell for Pakistan (React + FastAPI) with local ML for flagging AI-generated media. *(collab)* | **[Demo →](https://cybersafe-pk.sadiqmansoor.tech/)** |
+
+> 📂 More open-source work — SQL case studies, Power BI dashboards, and analytics projects — is
+> [pinned on my profile below](https://github.com/sadiq-mansoor?tab=repositories).
+
+---
+
+### 🔬 Research
+
+- **Under review (2026)** — *Isolating an interpretable, length- & code-controlled linguistic signal in LLM prompt-injection and jailbreak corpora.* (methodology to follow post-publication)
+- **Applied study** — Chronic Kidney Disease (CKD) risk prediction with a leakage-safe ML pipeline on the UCI dataset, served via FastAPI.
 
 ---
 
 ### 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -62,8 +79,8 @@ pipelines, honest evaluation, and results a non-technical stakeholder can actual
 
 ---
 
-### 🤝 Open to
+### 🤝 Let's build something
 
-**Freelance data & ML projects** · **Junior ML / Data Analyst roles** · **Research assistantships & grad-school collaboration**
+**Open to freelance AI/ML projects, software engineering roles, and research collaboration.**
 
-📫 Reach me at **sadiqmjalali111@gmail.com** — or DM on [Twitter/X](https://twitter.com/SadiqMansoorIMS).
+📫 **sadiqmjalali111@gmail.com** · 🌐 **[sadiqmansoor.tech](https://sadiqmansoor.tech)** · 💼 **[LinkedIn](https://www.linkedin.com/in/sadiqmansoor/)**
