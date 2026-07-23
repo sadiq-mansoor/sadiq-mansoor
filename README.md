@@ -168,5 +168,7 @@ inspect, and extend them.
 - Open to **freelance AI/ML work, software-engineering roles, and research collaboration.**
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Let's build something" width="100%" />
+  <a href="https://sadiqmansoor.tech">
+    <img src="./assets/footer.svg" alt="Let's build something — visit sadiqmansoor.tech" width="100%" />
+  </a>
 </p>
