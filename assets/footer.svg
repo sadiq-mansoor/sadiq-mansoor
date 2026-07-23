@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="120" viewBox="0 0 1280 120" fill="none" role="img" aria-label="Let's build something">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1280" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e7c74"/>
+      <stop offset="0.5" stop-color="#12327a"/>
+      <stop offset="1" stop-color="#0a0f1e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 40 C 220 0, 420 90, 640 55 S 1080 0, 1280 45 V120 H0 Z" fill="url(#fbg)"/>
+  <text x="640" y="98" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#eaf6ff" letter-spacing="2">Let's build something — sadiqmansoor.tech</text>
+</svg>

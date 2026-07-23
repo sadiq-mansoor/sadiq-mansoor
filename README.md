@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:14b8a6&text=Sadiq%20Mansoor&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Software%20Engineer%20%26%20Applied%20ML%20%7C%20LLM%2FRAG%20Systems%20%7C%20Full-Stack%20AI%20Products&descAlignY=55&descSize=16" alt="Sadiq Mansoor banner" />
+  <img src="./assets/banner.svg" alt="Sadiq Mansoor — Software Engineer & Applied ML" width="100%" />
 </p>
 
 <p align="center">
@@ -168,5 +168,5 @@ inspect, and extend them.
 - Open to **freelance AI/ML work, software-engineering roles, and research collaboration.**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14b8a6,50:2563eb,100:0f172a" alt="Footer wave" />
+  <img src="./assets/footer.svg" alt="Let's build something" width="100%" />
 </p>
